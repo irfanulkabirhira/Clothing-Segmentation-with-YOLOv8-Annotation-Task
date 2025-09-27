@@ -23,7 +23,7 @@ The dataset was custom-annotated with three classes:
 - Visualizes segmented predictions.
 - Exports trained model to ONNX and TorchScript formats.
 
-![image alt](https://github.com/irfanulkabirhira/Amazon-Sales-yearly-Product-s-Dashboard-Creation/blob/10c6d2726d9aabc312517472a352e8270a994a53/Amazon%20Sales%20DashBoarad%20Creation.png)
+![image alt](https://github.com/irfanulkabirhira/Clothing-Segmentation-with-YOLOv8-Annotation-Task/blob/cee2ddffd5f82d85e9bbfbf499a1f31f1773ea72/Predicted%20Output%20Images.png)
 
 
 ## 🛠️ Tech Stack
