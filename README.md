@@ -2,11 +2,9 @@
 YOLOv8-based segmentation model for clothing annotation. This project demonstrates how to prepare a custom dataset, train a YOLOv8 segmentation model, and evaluate results for classifying and segmenting clothing types (full sleeve, half sleeve, pants). Implemented in Google Colab using the Ultralytics library
 
 
-
 🔖Repository Description
 
 YOLOv8-based segmentation model for clothing annotation. This project demonstrates how to prepare a custom dataset, train a YOLOv8 segmentation model, and evaluate results for classifying and segmenting clothing types (full sleeve, half sleeve, pants). Implemented in Google Colab using the Ultralytics library.
-
 
 # 👕 Clothing Annotation Task – YOLOv8 Segmentation
 
@@ -38,19 +36,12 @@ The dataset was custom-annotated with three classes:
 - Evaluation metrics and prediction examples are included in the notebook.  
 
 ## 📂 Repository Structure
-.
 ├── dataset/ # Images & labels
 ├── Annotation_Task.ipynb # Colab notebook
 ├── data.yaml # YOLO dataset config
 └── README.md # Project report
 
-
-
-
 ## 📌 Future Improvements
 - Train with larger YOLOv8 models (`m`, `l`, `x`) for higher accuracy.
 - Expand dataset with more clothing types.
 - Deploy as a web/app demo for real-time use.
-
----
-
